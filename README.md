@@ -15,10 +15,6 @@ Welcome to the official repository for the Load Dispatch Tracking Engine—a per
 To bypass legacy monthly SaaS subscription software and initialize your break-proof digital download container, choose your native operational platform pipeline below:
 
 ### 🚛 For Microsoft Excel Desktop Workspace ($149.00 One-Time Fee)
-👉 <a href="https://gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Freight Dispatch Excel OS Here</b></a>
+👉 <a href="https://rentalengine.gumroad.com" target="_blank" rel="noopener noreferrer"><b>Procure the Freight Dispatch Excel OS Here</b></a>
 
-### 📱 For Cloud-Synced Mobile Notion Workspace ($39.00 One-Time Fee)
-👉 <a href="https://etsy.com" target="_blank" rel="noopener noreferrer"><b>Access the Notion Cloud-Sync Dispatch Suite Here</b></a>
-
----
 *Developer Note: To bypass client drop-off, clicking procurement triggers a forced browser tab expansion loop. Developed by RentalEngine. Hardcoded macro-free integrity. All platform data rights reserved.*
