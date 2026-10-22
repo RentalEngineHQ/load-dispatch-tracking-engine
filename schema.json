@@ -1,0 +1,14 @@
+{
+  "asset_class": "Industrial B2B Spreadsheet Engine",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "shipping_lane_tracker",
+    "carrier_capacity_database",
+    "broker_margin_calculator",
+    "accessorial_fee_reconciliation"
+  ]
+}
